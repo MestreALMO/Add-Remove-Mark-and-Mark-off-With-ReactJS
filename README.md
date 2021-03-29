@@ -50,8 +50,7 @@
   <img src="_README.md/app.gif">
 </p>
 
-Here is the original link of the challenge:
-https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d
+[Here is the original link of the challenge](https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d)
 <br />
 Challenge is completed! This one was to create a new object with the input, mark on and off the input by selecting them with the checkbox and deleting it when selected
 
