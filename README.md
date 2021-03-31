@@ -5,7 +5,7 @@
     <img src="_README.md/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">This is my the bootcamp ignite from rocketseat first challenge</h3>
+  <h3 align="center"><h3 align="center">This is my chapter 1 first challenge from the bootcamp Ignite from Rocketseat </h3></h3>
 
   <p align="center">
     Challenge 01.1
