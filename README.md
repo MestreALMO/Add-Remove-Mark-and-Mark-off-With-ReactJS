@@ -8,7 +8,7 @@
   <h3 align="center">This is my the bootcamp ignite from rocketseat first challenge</h3>
 
   <p align="center">
-    Challenge 01.01
+    Challenge 01.1
     <br />
     <br />
   </p>
