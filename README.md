@@ -5,7 +5,7 @@
     <img src="_README.md/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center"><h3 align="center">This is my chapter 1 first challenge from the bootcamp Ignite from Rocketseat </h3></h3>
+  <h3 align="center"><h3 align="center">This is my version of chapter 1 first challenge from the bootcamp Ignite from Rocketseat</h3></h3>
 
   <p align="center">
     Challenge 01.1
@@ -52,7 +52,8 @@
 
 [Here is the original link of the challenge](https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d)
 <br />
-Challenge is completed! This one was to create a new object with the input, mark on and off the input by selecting them with the checkbox and deleting it when selected
+<p>Challenge was completed! This one was to create a new object with the input, mark on and off the input by selecting them with the checkbox and deleting it when selected. <.p>
+<p>After the challenge was done I made my own alterations so the code is unique!, though the code that I used only for the challenge can be found in the other branch</p>
 
 
 <!-- GETTING STARTED -->
