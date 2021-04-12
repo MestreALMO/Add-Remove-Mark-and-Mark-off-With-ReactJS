@@ -120,8 +120,16 @@ With that the app will be running!!!
 
 ## Usage
 
+My code:
 <p align="center">
   <img src="_README.md/app.gif">
+</p>
+
+<br />
+
+Code for the challenge:
+<p align="center">
+  <img src="_README.md/app_OriginalChallenge.gif">
 </p>
 
 </br>
