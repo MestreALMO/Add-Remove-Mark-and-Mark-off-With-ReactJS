@@ -1,6 +1,17 @@
 header.header {
   background: var(--blue);
   padding-top: 2rem;
+
+  h1 {
+    color: #000;
+    font-size: 50px;
+    font-weight: 500;
+    display: flex;
+
+    div {
+      font-weight: 800;
+    }
+  }
   
   > div {
     max-width: 1120px;

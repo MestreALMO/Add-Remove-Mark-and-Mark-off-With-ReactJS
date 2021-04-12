@@ -2,10 +2,10 @@
   --blue: #273FAD;
   --green: #3FAD27;
   --red: 	#ad273f;
-  --background: #EBEBEB;
-  --shapes: #FFFFFF;
-  --text-title: #3D3D4D;
-  --text: #1C1C29;
+  --background: #666;
+  --shapes: #222;
+  --text-title: #EBEBEB;
+  --text: #fff;
   --text-light: #A09CB1;
 }
 
@@ -17,7 +17,8 @@
 
 body {
   font: 16px "Poppins", Arial, sans-serif;
-  color: #121214;
+  background: var(--shapes);
+  height: 100vh;
 }
 
 input, textarea {

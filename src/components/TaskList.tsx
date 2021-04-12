@@ -48,18 +48,22 @@ export function TaskList() {
   return (
     <section className="task-list container">
       <header>
-        <h2>Minhas tasks</h2>
+        <p>A list so our users make their daily activities easier</p>
 
-        <div className="input-group">
-          <input 
-            type="text" 
-            placeholder="Adicionar novo todo" 
-            onChange={(e) => setNewTaskTitle(e.target.value)}
-            value={newTaskTitle}
-          />
-          <button type="submit" data-testid="add-task-button" onClick={handleCreateNewTask}>
-            <FiCheckSquare size={16} color="#fff"/>
-          </button>
+        <div>
+          <h2>My tasks</h2>
+
+          <div className="input-group">
+            <input 
+              type="text" 
+              placeholder="Add new item" 
+              onChange={(e) => setNewTaskTitle(e.target.value)}
+              value={newTaskTitle}
+            />
+            <button type="submit" data-testid="add-task-button" onClick={handleCreateNewTask}>
+              <FiCheckSquare size={16} color="#fff"/>
+            </button>
+          </div>
         </div>
       </header>
 
